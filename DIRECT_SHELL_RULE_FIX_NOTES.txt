@@ -1,0 +1,2 @@
+This package directly replaces the old width:min(var(--site-shell-max...)) and width:min(var(--page-shell-max...)) rules.
+It does not rely only on later overrides.

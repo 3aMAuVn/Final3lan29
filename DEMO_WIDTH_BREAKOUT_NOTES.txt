@@ -1,0 +1,2 @@
+This package makes non-demo page containers break out to the full viewport width,
+so they can match the demo-page shell more closely, even on large monitors and at browser zoom.

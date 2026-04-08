@@ -1,0 +1,2 @@
+This package patches the actual later non-demo rules that still capped width.
+It makes the visible non-demo cards and page-hero use the same screen gap model as the demo page.

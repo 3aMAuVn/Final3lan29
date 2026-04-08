@@ -1,0 +1,3 @@
+This package does not try to change the whole site shell again.
+It directly makes the visible non-demo cards/sections use the same visual width model as the demo page card:
+width = viewport width minus 24px page gap on each side.

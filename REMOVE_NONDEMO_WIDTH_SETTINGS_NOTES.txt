@@ -1,0 +1,2 @@
+This package removes the width experiment blocks that were added for non-demo pages.
+Demo-page width rules are left untouched as much as possible.

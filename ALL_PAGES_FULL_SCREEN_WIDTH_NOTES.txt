@@ -1,0 +1,3 @@
+This package forces all pages to use full screen width with no outer side gap.
+The page shell and visible page sections are set to width:100% / max-width:none.
+Only internal content padding is kept for readability.

@@ -1,0 +1,2 @@
+This package adds a final same-width override with the same specificity as the older conflicting non-demo rules.
+It is intended to stop the sideways/narrow non-demo shell and make non-demo pages use the same visible shell width as demo pages.

@@ -1,0 +1,3 @@
+This package removes the leftover breakout rule with left:50% and margin-left:-50vw.
+That rule was the real cause of the non-demo pages still breaking.
+It then applies one clean full-width shell without any sideways offset.

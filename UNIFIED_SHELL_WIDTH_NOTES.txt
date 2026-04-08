@@ -1,0 +1,2 @@
+This package applies one unified shell width rule to every page.
+It removes the earlier width experiment blocks and makes both demo and non-demo pages use the same full-width page shell.

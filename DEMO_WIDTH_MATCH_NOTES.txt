@@ -1,0 +1,2 @@
+This package removes the remaining shell gutter and synchronizes the inline CSS fallback.
+It is intended to make non-demo pages use the same viewport-width shell as the demo pages.

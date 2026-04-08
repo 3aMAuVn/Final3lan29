@@ -1,0 +1,2 @@
+This package removes the previous breakout-shell experiment that caused non-demo pages to shift sideways.
+It applies one normal full-width shell model to both demo and non-demo pages, with the same viewport-width behavior and small internal padding.

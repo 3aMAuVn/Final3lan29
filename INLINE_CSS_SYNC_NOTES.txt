@@ -1,0 +1,6 @@
+This package synchronizes the inline CSS fallback in _includes/head.html with the latest main.css.
+
+Why:
+- On the custom domain, the site may still render using the inline fallback if the external CSS asset does not load.
+- Earlier width fixes only changed assets/css/main.css, but the inline fallback still contained the older narrow layout.
+- This package updates the inline CSS snapshot so the deployed custom-domain site can use the same full-width layout even when falling back to inline CSS.
